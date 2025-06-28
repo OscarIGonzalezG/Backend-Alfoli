@@ -116,7 +116,7 @@ Incluye validaciones, estructura limpia, manejo de relaciones entre entidades y 
 
 **Oscar González**  
 _Ingeniero en Informática_  
-📫 [LinkedIn](www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171)  
+📫 [LinkedIn](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)  
 📁 Este proyecto forma parte de mi portafolio profesional
 
 ---
